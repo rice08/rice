@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @thingsido
+- 👋 Hi, I’m @rice08
 - 👀 I’m interested in: Physical computing, piano, maths, cats
-- 🌱 I’m currently learning: Micropython, C++, Python
+- 🌱 I’m currently learning: Micropython, HTML, Python
 - 📫 How to reach me: Via comments
 
 <!---
